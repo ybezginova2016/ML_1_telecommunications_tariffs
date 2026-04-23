@@ -16,4 +16,4 @@ The complete code for the project, including data preprocessing, model training,
 The model aims to achieve a minimum accuracy score of 0.75 on the test dataset, ensuring its effectiveness in predicting the best tariff plan for customers.
 
 ### **Feedback**
-Your comments and questions are welcome at `ybezginova2021@gmail.com` and on Telegram [@yu_bezginova](https://t.me/ybezginova).
+Your comments and questions are welcome at `ybezginova2021@gmail.com` and on Telegram [@ybezginova_de](https://t.me/ybezginova).
